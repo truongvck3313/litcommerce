@@ -70,12 +70,12 @@ def writeData(file,sheetName,rowum,columnno,data):
 
 
 
-file_name = 'C:/Users/Admin/PycharmProjects/pythonProject/litcommerce/data_litcommerce.json'
+file_name = 'C:/Users/Admin/PycharmProjects/pythonProject/litcommerce/data_litcommerce1.json'
 with open(file_name, 'r', encoding='utf-8') as f:
     data = json.load(f, strict = False)
 
 
-logging.basicConfig(handlers=[logging.FileHandler(filename= "C:/Users/Admin/PycharmProjects/pythonProject/litcommerce/litcommerce.log",
+logging.basicConfig(handlers=[logging.FileHandler(filename= "C:/Users/Admin/PycharmProjects/pythonProject/litcommerce/litcommerce1.log",
                                                  encoding= 'utf-8', mode='a+')],
                     format="%(asctime)s %(name)s:%(levelname)s:%(message)s",
                     datefmt="%F %A %T",
