@@ -1,1 +1,1 @@
-{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[]}
+{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[{"name":"test_main1","children":[{"name":"test_login","uid":"8061ce9642ae9c49","parentUid":"2b1c0272b7fccd0fa0c2218ec92a5122","status":"passed","time":{"start":1709117204472,"stop":1709117232544,"duration":28072},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":8,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"2b1c0272b7fccd0fa0c2218ec92a5122"}]}

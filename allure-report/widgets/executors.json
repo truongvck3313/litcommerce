@@ -1,1 +1,1 @@
-[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":20,"buildName":"litcommerce #20","buildUrl":"http://localhost:8080/job/litcommerce/20/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/litcommerce/20/allure"}]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":29,"buildName":"litcommerce #29","buildUrl":"http://localhost:8080/job/litcommerce/29/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/litcommerce/29/allure"}]
