@@ -75,7 +75,7 @@ with open(file_name, 'r', encoding='utf-8') as f:
     data = json.load(f, strict = False)
 
 
-logging.basicConfig(handlers=[logging.FileHandler(filename= "C:/Users/Admin/PycharmProjects/pythonProject/litcommerce/litcommerce1.log",
+logging.basicConfig(handlers=[logging.FileHandler(filename= "C:/Users/Admin/PycharmProjects/pythonProject/litcommerce/out.log",
                                                  encoding= 'utf-8', mode='a+')],
                     format="%(asctime)s %(name)s:%(levelname)s:%(message)s",
                     datefmt="%F %A %T",
