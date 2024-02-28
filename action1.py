@@ -92,6 +92,7 @@ class login():
         time.sleep(2)
         print(tiktok.tab_id)
         print(tiktok.title)
+        print("alo")
 
     def login_litcommerce(self, user, password):
         driver.implicitly_wait(15)
