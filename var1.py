@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 
 PATH ="C:/Users/Admin/PycharmProjects/pythonProject/chromedriver.exe"
-file_name = 'C:/Users/Admin/PycharmProjects/pythonProject/litcommerce/data_litcommerce.json'
+file_name = 'C:/Users/Admin/PycharmProjects/pythonProject/litcommerce/data_litcommerce1.json'
 url = "https://app.litcommerce.com/login?redirect=/first-setup/setup-source-cart"
 
 

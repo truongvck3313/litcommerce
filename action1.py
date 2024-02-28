@@ -12,7 +12,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 from selenium.webdriver.support.ui import Select
 import json
-import var
+import var1
 from retry import retry
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -27,7 +27,7 @@ options.add_argument('--ignore-certificate-errors-spki-list')
 options.add_argument('--ignore-certificate-errors')
 options.add_argument('--ignore-ssl-errors')
 options.add_argument('log-level=3')
-driver = webdriver.Chrome(var.PATH, chrome_options=options)
+driver = webdriver.Chrome(var1.PATH, chrome_options=options)
 
 
 
@@ -95,12 +95,12 @@ class login():
 
     def login_litcommerce(self, user, password):
         driver.implicitly_wait(15)
-        driver.get(var.url)
+        driver.get(var1.url)
         driver.maximize_window()
-        driver.find_element(By.XPATH, var.login_user).send_keys(user)
-        driver.find_element(By.XPATH, var.login_password).send_keys(password)
-        driver.find_element(By.XPATH, var.login_submit).click()
-        driver.find_element(By.XPATH, var.icon_lit).is_displayed()
+        driver.find_element(By.XPATH, var1.login_user).send_keys(user)
+        driver.find_element(By.XPATH, var1.login_password).send_keys(password)
+        driver.find_element(By.XPATH, var1.login_submit).click()
+        driver.find_element(By.XPATH, var1.icon_lit).is_displayed()
         time.sleep(2)
         logging.info("Đã login thành công Litcommerce với tài khoản: " + user)
         logging.info("Đã login thành công Litcommerce với mật khẩu: " + password)
@@ -109,7 +109,7 @@ class login():
         print(driver.title)
         driver.implicitly_wait(2)
         try:
-            driver.find_element(By.XPATH, var.icon_x).click()
+            driver.find_element(By.XPATH, var1.icon_x).click()
         except:
             pass
         time.sleep(1)
@@ -120,12 +120,12 @@ class login():
 class shopify_space():
     def order_listorder(self):
         print("1", shopify.title)
-        shopify.ele(var.shopify_order).click()
+        shopify.ele(var1.shopify_order).click()
 
     def oder_addorder(self):
         time.sleep(2)
-        shopify.ele(var.shopify_addorder).click()
-        a  = shopify.ele(var.shopify_addorder).text
+        shopify.ele(var1.shopify_addorder).click()
+        a  = shopify.ele(var1.shopify_addorder).text
         print("test text", a)
 
 
@@ -133,11 +133,11 @@ class tiktok_space():
     def oder_listorder(self):
         time.sleep(2)
         print("2", tiktok.title)
-        tiktok.ele(var.tiktok_order).click()
+        tiktok.ele(var1.tiktok_order).click()
 
     def oder_managerreturns(self):
         time.sleep(2)
-        tiktok.ele(var.tiktok_managereturn).click()
+        tiktok.ele(var1.tiktok_managereturn).click()
 
 class litcommerce():
     pass

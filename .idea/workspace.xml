@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9c11cb7-2e6b-4913-94bd-4093fff4d873" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileGame/game2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FileGame/game2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../action.py" beforeDir="false" afterPath="$PROJECT_DIR$/../action.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/action_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../app/action_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baocao_emso.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../baocao_emso.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bug_emso.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../bug_emso.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emso.log" beforeDir="false" afterPath="$PROJECT_DIR$/../emso.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../emso.py" beforeDir="false" afterPath="$PROJECT_DIR$/../emso.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funcion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../funcion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookies.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_litcommerce.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/litcommerce.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/litcommerce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nhap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nhap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../var.py" beforeDir="false" afterPath="$PROJECT_DIR$/../var.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;truongvck3313&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1d5a7c3e-ff57-4dfd-a6c8-d4e66d744358" />
+        <option name="url" value="https://github.com/truongvck3313/litcommerce.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cmC02ZQaQ4QMbbnZlP5ntxL89M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/pythonProject/litcommerce&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9c11cb7-2e6b-4913-94bd-4093fff4d873" name="Changes" comment="" />
+      <created>1708707139751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708707139751</updated>
+      <workItem from="1708707140765" duration="1082000" />
+      <workItem from="1708737562349" duration="1336000" />
+      <workItem from="1708739337587" duration="10140000" />
+      <workItem from="1708797262459" duration="5043000" />
+      <workItem from="1708831756576" duration="8496000" />
+      <workItem from="1708847523451" duration="6208000" />
+      <workItem from="1708911081053" duration="2402000" />
+      <workItem from="1708961372369" duration="1976000" />
+      <workItem from="1709028733196" duration="3743000" />
+      <workItem from="1709083768568" duration="4702000" />
+      <workItem from="1709110189962" duration="2212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

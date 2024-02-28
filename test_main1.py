@@ -1,4 +1,4 @@
-import litcommerce
+import litcommerce1
 import unittest
 
 
@@ -8,8 +8,8 @@ import unittest
 
 class Test(unittest.TestCase):
     def test_login(self):
-        litcommerce.login(self)
-        litcommerce.test(self)
+        litcommerce1.login(self)
+        litcommerce1.test(self)
 
 
 if __name__ == "__main__":
